@@ -1,0 +1,142 @@
+*{
+    padding: 0;
+     margin: 0;
+}
+nav{
+    background: #3F72E9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    height: 56px;
+    width: 1535.9px;
+    /* padding: 10px 0px; */
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    
+}
+.logo{
+    border: 0.00363783px solid #FFFFFF;
+    height: 23.31464385986328px;
+    width: 87.60688018798828px;
+    left: 0.550048828125px;
+    top: 6.90887451171875px;
+    border-radius: 0px;
+
+}
+.search{
+    background-color: #FFFFFF;
+    padding: 9px;
+    width: 420px;
+    margin: 0px 15px;
+    margin: 0px 15px;
+    justify-content: space-between;
+    border-radius: 0px;
+    color: #2874f0;
+}
+.search input{
+ 
+   font-style: normal;
+   font-size: 12px;
+    height: 14px;
+    width: 37px;
+    left: 8px;
+    top: 13px;
+    border-radius: nullpx;
+    width: 380px;
+    border: none;
+    outline: none;
+}
+.NavLink{
+    font-family: Roboto;
+font-size: 15.4px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+    margin: 0px 20px;
+    color: white;
+    height: 20px;
+    width: 117px;
+    left: 948px;
+    top: 18px;
+    border-radius: nullpx;
+    text-decoration: none; 
+}
+.head{
+    position: abso;
+    height: 300px;
+width: 1535.9px;
+
+}
+.head_1{
+    position: absolute;
+    left: 32px;
+    padding-top: 80px;   
+}
+h3{
+font-family: Roboto;
+font-style: normal;
+font-size: 20px;
+font-weight: 700;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+}
+.headcont{
+    height: 23px;
+width: 294px;
+padding-left: 290px;
+padding-top: 96px;
+border-radius: nullpx;
+}
+.list{
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+height: 96px;
+width: 303px;
+left: 0px;
+top: 73px;
+border-radius: nullpx;
+padding-top: 20px;
+padding-left: 25px;
+}
+h4{
+font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+}
+.img{
+    float: left;
+}
+.short{
+    padding-top: 10px;  
+}
+.text{
+    row-gap: 10px;
+}
+.side{
+    font-family: Roboto;
+    padding-top: 0px;
+    padding-left: 991px;
+    padding-right: 333px;
+}
+
+h5{
+    font-family: Roboto;
+font-size: 12px;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: 0em;
+text-align: left;
+padding-top: 4px;
+}
